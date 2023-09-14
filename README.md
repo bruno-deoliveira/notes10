@@ -1,7 +1,7 @@
 <h1 align="center"> 🗒️ RocketNotes </h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
-[Projeto](#Projeto) | [Tecnologias](#Tecnologias-Utilizadas) 
+[Projeto](#Projeto)
 
 
 <p align="center">
