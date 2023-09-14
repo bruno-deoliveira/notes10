@@ -1,9 +1,6 @@
 <h1 align="center"> 🗒️ RocketNotes </h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
-[Projeto](#Projeto)
-
-
 <p align="center">
   <img src="https://github.com/bruno-deoliveira/rocketNotes_API_Completo/assets/109918729/45e40e02-81b3-4281-be4b-de4c153023aa"
 </p>
