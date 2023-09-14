@@ -7,7 +7,7 @@
   <img src="https://github.com/bruno-deoliveira/rocketNotes_API_Completo/assets/109918729/45e40e02-81b3-4281-be4b-de4c153023aa"
 </p>
   
-## 💻 Projeto <a name="projeto"></a>
+## 💻 Projeto
 Este repositório contém uma API completa construída com Node.js, Express e SQLite. A seguir, você encontrará informações sobre como a API foi desenvolvida e como você pode executá-la e usá-la.
 
 ## 🚀 Tecnologias Utilizadas:
