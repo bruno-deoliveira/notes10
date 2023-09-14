@@ -29,7 +29,7 @@ $ npm install
 $ npm run dev 
 ```
 ## 📝 Licença
-Esse projeto está sob a licença [MIT](). Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença [MIT](https://github.com/bruno-deoliveira/rocketNotes_API_Completo/blob/main/LICENSE). Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
